@@ -1,6 +1,6 @@
-# [Fireship.io](https://fireship.io/)
+# [Leewardslope](https://leewardslope.com/)
 
-Content [designed](https://fireship.io/mission/) to increase developer happiness 😁 and productivity 🚀.
+Content [designed](https://leewardslope.com/mission/) to increase developer happiness 😁 and productivity 🚀.
 
 ## Project Tour
 
@@ -65,7 +65,7 @@ npm run build
 
 ## Contribute a Post
 
-Read the [style guide](https://fireship.io/style-guide/) for some tips before contributing. 
+Read the [style guide](https://leewardslope.com/style-guide/) for some tips before contributing. 
 
 ```shell
 cd hugo
