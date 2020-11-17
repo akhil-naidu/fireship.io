@@ -12,7 +12,7 @@ export class CarbonAdsComponent implements OnInit, OnDestroy {
   ngOnInit() {
     this.sub = this.auth.userDoc$.subscribe(user => {
       if (!user || !(user.products || user.is_pro)) {
-        this.showAd();
+        this.removeAd();
       } else {
         this.removeAd();
       }
