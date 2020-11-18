@@ -4,7 +4,7 @@ lastmod: 2020-11-05T13:22:42-07:00
 publishdate: 2020-04-03T13:22:42-07:00
 author: Akhil Naidu
 draft: false
-description: Wake up Neo,...
+description: This is the beginning of an ultimate guide! Wake up Neo,... and understand Hackers
 tags: 
     - productivity
     - github
