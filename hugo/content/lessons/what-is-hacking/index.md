@@ -4,7 +4,7 @@ lastmod: 2020-11-18
 publishdate: 2020-11-18
 author: Akhil Naidu
 draft: false
-description: Wake up, Neo ...
+description: Wake up, Neo...
 tags: 
     - Cyber Security
     - Beginners
@@ -22,19 +22,13 @@ tags:
 #    rxdart: 0.20
 ---
 
-## With my Experience
-
 A person who is able to discover a weakness in a system and manages to exploit it is called a **hacker** and this process is known as **Hacking**. Hacking is an art. It is the mastery of a system that gives you complete control over it. It is the act of modifying the inner workings of a system, in order to make it do something that it’s original creator never intended.
 
 > That’s the gist of it. But as with all things, the devil is in the details. This is what this website is for.
 
-- - -
-
-## What I say
-
 The only thing you need to become a hacker is interest and dedication. But more than anything else, you need a **thirst for knowledge**. You should always be willing to learn something new, always open to new ideas. So come with me, follow along these series of tutorials and before long you’ll see for yourself that the claim has been justified.
 
-- - -
+## What I want to say
 
 Before moving on, there’s a couple things that we need to address.
 
@@ -44,7 +38,7 @@ Secondly, these days the only side of hacking that people hear about is the bad 
 
 > There is a whole other side to hacking that never quite gets to see the light of day.
 
-- - -
+## At the end of the day
 
 For every major hack that makes the news, many more are prevented by security specialists. These people, these whitehat hackers, possess exactly the same skillset as the blackhats, but they choose to use them for good. No software can ever be completely secure and that makes cyber security a cat and mouse game. A race between whitehats and blackhats. A battle of angels and demons, the stakes of which have never been higher than they are today. The global cost of cyber crime is projected to reach [$2 trillion by 2019](http://www.forbes.com/sites/stevemorgan/2016/01/17/cyber-crime-costs-projected-to-reach-2-trillion-by-2019/#44daa5ac3bb0) and today it crossed that limit far ago.
 
