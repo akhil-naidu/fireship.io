@@ -9,6 +9,7 @@ emoji: 📜
 chapter_start: Introduction to Hacking 
 # video_length: 1:44
 ---
+
 A person who is able to discover a weakness in a system and manages to exploit it is called a **hacker** and this process is known as **Hacking**. Hacking is an art. It is the mastery of a system that gives you complete control over it. It is the act of modifying the inner workings of a system, in order to make it do something that it’s original creator never intended.
 
 > That’s the gist of it. But as with all things, the devil is in the details. This is what this website is for.
