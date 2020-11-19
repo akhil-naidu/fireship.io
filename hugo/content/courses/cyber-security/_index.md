@@ -1,6 +1,6 @@
 ---
 lastmod: 2020-10-01T10:23:30-09:00
-title: Guide to become Professional Hacker
+title: Guide to become a Professional Hacker
 description: I want to become a professional hacker but can't find the right resources | Problem Solved 
 weight: 0
 type: courses
